@@ -1,0 +1,6 @@
+config.json
+
+# Project exclude paths
+/node_modules/
+/index.js
+/index.js.map
